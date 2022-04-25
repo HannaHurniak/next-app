@@ -1,0 +1,15 @@
+.headerWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-size: 2rem;
+    background-image: url(../../public/images/background.jpeg);
+    filter: saturate(0.5);
+}
+
+.headerNav {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+}

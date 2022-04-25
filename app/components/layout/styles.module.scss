@@ -1,0 +1,13 @@
+.wrapper {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+}
